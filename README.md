@@ -11,6 +11,10 @@
 
 使用方式和Microsoft.AspNetCore.Authentication.Cookies方式基本一样。
 
+安装新的包
+
+`Install-Package QingCheng.AspNetCore.Authentication.Cookies -Version 5.0.0`
+
 只需要从AddCookie改为AddCookieX
 
 ``` c#
