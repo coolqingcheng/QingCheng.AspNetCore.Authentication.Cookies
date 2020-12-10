@@ -1,0 +1,2 @@
+# QingCheng.AspNetCore.Authentication.Cookies
+修改的Microsoft.AspNetCore.Authentication.Cookies包，增加在cookie验证模式下。ajax请求返回json而不是直接跳转页面
