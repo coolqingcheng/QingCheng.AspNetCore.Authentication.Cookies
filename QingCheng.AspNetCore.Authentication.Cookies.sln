@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QingCheng.AspNetCore.Authentication.Cookies", "QingCheng.AspNetCore.Authentication.Cookies\QingCheng.AspNetCore.Authentication.Cookies.csproj", "{F9858866-32CB-4C20-B9D1-9248B6C7D747}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo1", "demo\demo1.csproj", "{B9C52A2D-DE86-4F96-9570-BEF12921CDAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9858866-32CB-4C20-B9D1-9248B6C7D747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9858866-32CB-4C20-B9D1-9248B6C7D747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9858866-32CB-4C20-B9D1-9248B6C7D747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9858866-32CB-4C20-B9D1-9248B6C7D747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C52A2D-DE86-4F96-9570-BEF12921CDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C52A2D-DE86-4F96-9570-BEF12921CDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C52A2D-DE86-4F96-9570-BEF12921CDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C52A2D-DE86-4F96-9570-BEF12921CDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9733551-B893-47BF-AC8B-956C07685B9B}
+	EndGlobalSection
+EndGlobal
